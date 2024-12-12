@@ -2,5 +2,6 @@
 using namespace std;
 
 int mian(){
-    while(true)cout<<"hello world"<<endl;
+    while(true)cout<<"hello sikosiko"<<endl;
+    
 }
